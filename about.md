@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
+Hi There,
+
+
+
 Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+yayayayaya
 
 ### Contact me
+[juangwiantoro@gmail.com](mailto:juangwiantoro@gmail.com)
 
 [email@domain.com](mailto:email@domain.com)
